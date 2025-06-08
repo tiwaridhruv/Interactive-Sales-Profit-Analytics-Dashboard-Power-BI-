@@ -1,4 +1,4 @@
-# Sales-Profit-Analytics-Dashboard-Power-BI-
+# Sales-Profit-Analytics-Dashboard-[Power-BI]
 
 This project presents a comprehensive and interactive Power BI dashboard built using sample retail sales data. It provides key business insights and performance metrics through dynamic visualizations, helping users explore trends, regional performance, and profitability across various dimensions.
 
